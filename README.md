@@ -58,7 +58,7 @@ This project uses an OpenCV Haar Cascade classifier for face detection. You need
 **a. Clone the Repository**
 
 ```bash
-git clone [https://github.com/qingyangxi/ExaminationAuthSystem.git](https://github.com/qingyangxi/ExaminationAuthSystem.git)
+git clone https://github.com/qingyangxi/ExaminationAuthSystem.git
 cd ExaminationAuthSystem
 ```
 
