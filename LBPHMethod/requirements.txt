@@ -1,3 +1,0 @@
-pytz
-opencv-python
-opencv-contrib-python
