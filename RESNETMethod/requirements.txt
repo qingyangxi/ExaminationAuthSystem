@@ -1,4 +1,0 @@
-pytz
-opencv-python
-face_recognition
-dlib
