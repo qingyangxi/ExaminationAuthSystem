@@ -6,15 +6,12 @@
 
 This repository contains an exam identity verification system based on face recognition.
 
-***
-
 ## ✨ About The Project
 
 **Please Note:** This project was developed primarily as a hands-on learning exercise. It implements the classic, and now somewhat dated, **LBPH** face recognition algorithm to demonstrate fundamental concepts. It serves as a practical application of traditional computer vision techniques rather than a production-ready system using state-of-the-art models.
 
 The system is a desktop application designed for exam identity verification. It uses the **LBPH (Local Binary Patterns Histograms)** algorithm, a classic, texture-based recognition method known for its high efficiency and low resource consumption, making it ideal for quick and lightweight identity checks.
 
-***
 
 ## 🚀 Key Features
 
@@ -22,7 +19,6 @@ The system is a desktop application designed for exam identity verification. It 
 * **Efficient Face Management & Verification**: Supports continuous real-time capture of face data and uses a Haar Cascade classifier with the classic LBPH algorithm for fast and reliable identity verification.
 * **User-Friendly GUI**: Built with PyQt5 and PyQt-Fluent-Widgets to provide a clean, modern, and intuitive user experience.
 
-***
 
 ## 📸 Screenshots
 
@@ -45,7 +41,6 @@ The system is a desktop application designed for exam identity verification. It 
     </tr>
 </table>
 
-***
 
 ## 📦 Getting Started
 
@@ -93,7 +88,6 @@ pip install opencv-python opencv-contrib-python "PyQt-Fluent-Widgets[full]"
 python main.py
 ```
 
-***
 
 ## ⚠️ Known Issues
 
